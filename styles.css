@@ -1,0 +1,28 @@
+body{
+    font-family: 'arial';
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    border-bottom: 1px dotted gray;
+
+}
+
+a:link{
+    text-decoration: none;
+    color: #04779e;
+}
+
+
+p{
+    border-top:1px dotted gray; 
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
